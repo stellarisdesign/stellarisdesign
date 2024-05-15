@@ -114,7 +114,7 @@ main {
 }
 
 // Work/Projects
-.projects {
+.grid-container {
   display: grid;
   grid-gap: 0.7rem;
   grid-template-columns: repeat(3, 1fr);
