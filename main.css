@@ -96,16 +96,14 @@
     box-sizing: border-box; }
   
   body {
-    background: #444;
+    background: url('images/background.jpg');
+    background-attachment: fixed;
+    background-size: cover;
     color: #fff;
     height: 100%;
     margin: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    line-height: 1.5; }
-    body#bg-img {
-      background: url('images/background.jpg');
-      background-attachment: fixed;
-      background-size: cover; } 
+    line-height: 1.5; } 
         
   h1,
   h2,
