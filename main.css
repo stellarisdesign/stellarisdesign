@@ -55,7 +55,7 @@
       .menu-branding .portrait {
         width: 350px;
         height: 350px;
-        background: url("images/Lisa.L.jpg");
+        background: url("images/Lisa.L_.jpg");
         border-radius: 50%;
         border: solid 3px rgb(228, 220, 11); }
     .menu .nav-item {
@@ -289,6 +289,54 @@
         border-radius: 5px;
         transition: all .25s ease-in-out;
     }
+    #grid-item-7:hover{
+      filter: grayscale(0);
+  }
+  :hover{
+      border-color: #5c0000;
+  }
+  #grid-item-7{
+      width: 99%;
+      filter: grayscale(100%);
+      border-radius: 5px;
+      transition: all .25s ease-in-out;
+  }
+  #grid-item-8:hover{
+    filter: grayscale(0);
+}
+:hover{
+    border-color: #5c0000;
+}
+#grid-item-8{
+    width: 99%;
+    filter: grayscale(100%);
+    border-radius: 5px;
+    transition: all .25s ease-in-out;
+}
+#grid-item-9:hover{
+  filter: grayscale(0);
+}
+:hover{
+  border-color: #5c0000;
+}
+#grid-item-9{
+  width: 99%;
+  filter: grayscale(100%);
+  border-radius: 5px;
+  transition: all .25s ease-in-out;
+}
+#grid-item-10:hover{
+  filter: grayscale(0);
+}
+:hover{
+  border-color: #5c0000;
+}
+#grid-item-10{
+  width: 99%;
+  filter: grayscale(100%);
+  border-radius: 5px;
+  transition: all .25s ease-in-out;
+}
 
     main#work {
       background-image: url('images/background2.jpg');
