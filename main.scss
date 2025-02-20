@@ -96,14 +96,17 @@ main {
 
   .skills-1 {
     grid-area: job1;
+    display: grid;
   }
 
   .skills-2 {
     grid-area: job2;
+    display: grid;
   }
 
   .skills-3 {
     grid-area: job3;
+    display: grid;
   }
 
   .job {
