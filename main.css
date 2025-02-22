@@ -53,9 +53,9 @@
       .menu-branding.show {
         transform: translate3d(0, 0, 0); }
       .menu-branding .portrait {
-        width: 360px;
-        height: 360px;
-        background: url("images/Lisa.L_.jpg");
+        width: 350px;
+        height: 350px;
+        background: url("images/LisaL.jpg");
         background-repeat: no-repeat;
         background-size: cover;
         border-radius: 50%;
@@ -425,7 +425,7 @@
       height: 25vh;
       transform: translate3d(100%, 0, 0); }
       .menu-branding .portrait {
-        background: url("images/Lisa.L-small.jpg");
+        background: url("images/LisaLsmall.jpg");
         width: 150px;
         height: 150px; }
     .about-info {
