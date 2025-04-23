@@ -1,3 +1,3 @@
 # stellarisdesign
-My personal website that's still in progress of being created.
+My web portfolio.
 All rights reserved!
